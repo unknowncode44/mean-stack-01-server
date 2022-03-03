@@ -1,0 +1,19 @@
+{
+  "name": "mean_stack_01_server",
+  "version": "1.0.0",
+  "description": "Express server for mean_stack_01",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unknowncode44/mean_stack01_server.git"
+  },
+  "author": "Matias Orellana (UnknownCode)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unknowncode44/mean_stack01_server/issues"
+  },
+  "homepage": "https://github.com/unknowncode44/mean_stack01_server#readme"
+}
